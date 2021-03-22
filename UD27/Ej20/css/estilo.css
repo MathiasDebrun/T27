@@ -1,0 +1,7 @@
+table.tabla, th, td{
+    border: 1px solid black;
+}
+
+.corta{
+    width: 100%;
+}
